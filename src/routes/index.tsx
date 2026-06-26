@@ -1,7 +1,7 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { useEffect, useState } from "react";
 import vilvah from "@/assets/vilvah.png";
-import mp from "@/assets/miraella.png";
+import mp from "@/assets/miraellacs.png";
 import dp from "@/assets/dp.jpeg";
 import beyond1 from "@/assets/beyond1.png";
 import beyond2 from "@/assets/beyond3.png";
