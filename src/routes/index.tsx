@@ -20,7 +20,7 @@ const caseStudies = [
     tag: "UX Design",
     title: "Miraella Memory Hub - Internal Dashboard",
     hover: "Here's how I solved a major pain point for solo custom merch sellers.",
-    link: "https://miraelladashboard.vercel.app",
+    link: "https://miraellacasestudy.vercel.app/",
   },
 ];
 
