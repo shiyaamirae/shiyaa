@@ -66,7 +66,7 @@ const beyondDesign = [
     image: beyond3,
     title: "I TELL STORIES",
     description:
-      "Writing is how I make sense of the world. Whether it's fiction, lyrics, blogs, or books, I'm always exploring new ways to make people think, feel, and see things a little differently.",
+      "Writing is how I make sense of the world. Whether it's fiction, lyrics, blogs, or books, I'm always exploring new ways to make people think and see things in a different light.",
      
   },
   {
@@ -456,7 +456,7 @@ function Index() {
               <br/><br/>If you've made it this far, thank you for your time! Maybe one of these projects left you with a question or maybe you disagree with one of my decisions. 
               Either way, I'd love to hear your thoughts.
               If you have an idea you'd like to bring to life, or need a hand designing a product that could make 
-              someone's day a little better, I'm always up for a chat.
+              people's lives easier, I'm always up for a chat.
               </p>
             </div>
 
